@@ -1,4 +1,4 @@
 # khushiguptademo
 this is my first git repository
 <br/>
-author - khushi gupta 
+author - khushi gupta (mits college)
